@@ -92,16 +92,6 @@ works beautifully in all modern browsers:
 
 ---
 
-## ✧˖°🌷📎⭐ future ideas
-
-- [ ] add actual mood tracking functionality
-- [ ] create different card themes (cottagecore, academia, etc)
-- [ ] implement local storage for saved moods
-- [ ] add gentle animations on page load
-- [ ] create a color palette switcher
-
----
-
 ## ♡₊˚ contributing
 
 if you'd like to add your own touch to this project:
